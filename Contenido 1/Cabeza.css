@@ -69,4 +69,27 @@ span {
     font-weight: bold;
 }
 
+nav {
+    margin-left: 30%;
+}
+
+nav a:hover{
+    color: blueviolet;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 90px;
+    border: none;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: lightseagreen;
+}
+
 
